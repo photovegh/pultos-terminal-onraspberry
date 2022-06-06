@@ -5,6 +5,7 @@ csoport első eleme KOKTÉLOK
 kiszereles első két eleme KEVERT és KIMÉRT italok zéró urtartalommal
 valamint az ELSŐ FELVITT TERMÉK NEM LEHET KIMÉRT ital
 INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:
+****************** hmmmm ***********************
 PORTFORWARD a Raspberryre 22, 5678, 7766, 7777, 3333 (testConnection) és majd a leltár
 
 
