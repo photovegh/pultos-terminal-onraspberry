@@ -1,3 +1,13 @@
+INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:
+IDE IS LEÍROM mert sztem. Megsz...tt a lenullázott alkalmazás 
+CONFIG-jánál:
+csoport első eleme KOKTÉLOK
+kiszereles első két eleme KEVERT és KIMÉRT italok zéró urtartalommal
+valamint az ELSŐ FELVITT TERMÉK NEM LEHET KIMÉRT ital
+INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:INFO:
+PORTFORWARD a Raspberryre 22, 5678, 7766, 7777, 3333 (testConnection) és majd a leltár
+
+
 try {
 // code may cause error
 // kód hibát okozhat
